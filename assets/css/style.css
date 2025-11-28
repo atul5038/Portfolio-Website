@@ -271,6 +271,7 @@ header .navbar ul li a:hover {
 .home .btn:hover i {
   transform: translateX(5px);
 }
+
 /* social icons start */
 .socials {
   position: relative;
@@ -1219,7 +1220,68 @@ form .button-area {
   transition: 1s linear;
   z-index: 1000;
 }
+.project-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 15px;
+  background: #ffffff10;
+  padding: 10px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.project-logo {
+  width: 120px;     /* <-- makes image small */
+  height: auto;
+  border-radius: 8px;
+}
+
+.project-content h3 {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+.project-content p {
+  font-size: 20px;
+  opacity: 1;
+  line-height: 1.5;
+}
+
+.project-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  padding: 20px
+  margin-bottom: 30px;
+  color: white;
+}
+
+.project-logo {
+  width: 120px;       /* controls logo size */
+  height: auto;
+  border-radius: 5px;
+}
+
+.project-content h3 {
+  color: white;
+  margin-bottom: 10px;
+}
+
+.project-description {
+  color: white;
+  padding-left: 20px;
+}
+
+.project-description li {
+  margin-bottom: 30px;
+  line-height: 2.6;
+}
+
+
 #scroll-top.active {
   top: calc(100% - 12rem);
 }
+
 /* scroll top ends */
+
