@@ -1,31 +1,27 @@
 [
     {
         "name": "Strategic Sourcing",
-        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
-    },
-    {
-        "name": "Procurement",
-        "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
+        "icon": "Portfolio-Website/assets/images/Strategic sourcing.png"
     },
     {
         "name": "Negotiation",
-        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+        "icon": "Portfolio-Website/assets/images/negotiation.png"
     },
     {
         "name": "Vendor management",
-        "icon": "https://img.icons8.com/color/48/000000/redux.png"
+        "icon": "Portfolio-Website/assets/images/Vendor management.png"
     },
     {
         "name": "Data analysis",
-        "icon": "https://img.icons8.com/color/48/000000/firebase.png"
+        "icon": "Portfolio-Website/assets/images/Data Analysis.png"
     },
     {
         "name": "MS Excel",
-        "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
+        "icon": "Portfolio-Website/assets/images/MS Excel.png"
     },
     {
         "name": "Supply chain",
-        "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
+        "icon": "Portfolio-Website/assets/images/Supply chain.png"
     },
     {
         "name": "Operation management",
@@ -33,10 +29,10 @@
     },
     {
         "name": "Category management",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
+        "icon": "Portfolio-Website/assets/images/Category management.png"
     },
     {
         "name": "Canva Projects",
-        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+        "icon": "Portfolio-Website/assets/images/Canva.png"
     }    
 ]
