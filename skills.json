@@ -1,27 +1,27 @@
 [
     {
         "name": "Strategic Sourcing",
-        "icon": "Portfolio-Website/assets/images/Strategic sourcing.png"
+        "icon": "assets/images/Strategic%20sourcing.png"
     },
     {
         "name": "Negotiation",
-        "icon": "Portfolio-Website/assets/images/negotiation.png"
+        "icon": "assets/images/negotiation.png"
     },
     {
         "name": "Vendor management",
-        "icon": "Portfolio-Website/assets/images/Vendor management.png"
+        "icon": "assets/images/Vendor%20management.png"
     },
     {
         "name": "Data analysis",
-        "icon": "Portfolio-Website/assets/images/Data Analysis.png"
+        "icon": "assets/images/Data%20Analysis.png"
     },
     {
         "name": "MS Excel",
-        "icon": "Portfolio-Website/assets/images/MS Excel.png"
+        "icon": "assets/images/MS%20Excel.png"
     },
     {
         "name": "Supply chain",
-        "icon": "Portfolio-Website/assets/images/Supply chain.png"
+        "icon": "assets/images/Supply%20chain.png"
     },
     {
         "name": "Operation management",
@@ -29,10 +29,10 @@
     },
     {
         "name": "Category management",
-        "icon": "Portfolio-Website/assets/images/Category management.png"
+        "icon": "assets/images/Category%20management.png"
     },
     {
         "name": "Canva Projects",
-        "icon": "Portfolio-Website/assets/images/Canva.png"
-    }    
+        "icon": "assets/images/Canva.png"
+    }
 ]
