@@ -1,38 +1,38 @@
 [
-    {
-        "name": "Strategic Sourcing",
-        "icon": "assets/images/Strategic%20sourcing.png"
-    },
-    {
-        "name": "Negotiation",
-        "icon": "assets/images/negotiation.png"
-    },
-    {
-        "name": "Vendor management",
-        "icon": "assets/images/Vendor%20management.png"
-    },
-    {
-        "name": "Data analysis",
-        "icon": "assets/images/Data%20Analysis.png"
-    },
-    {
-        "name": "MS Excel",
-        "icon": "assets/images/MS%20Excel.png"
-    },
-    {
-        "name": "Supply chain",
-        "icon": "assets/images/Supply%20chain.png"
-    },
-    {
-        "name": "Operation management",
-        "icon": "https://img.icons8.com/color/48/000000/chakra-ui.png"
-    },
-    {
-        "name": "Category management",
-        "icon": "assets/images/Category%20management.png"
-    },
-    {
-        "name": "Canva Projects",
-        "icon": "assets/images/Canva.png"
-    }
+  {
+    "name": "Strategic Sourcing",
+    "icon": "https://img.icons8.com/color/48/purchase-order.png"
+  },
+  {
+    "name": "Negotiation",
+    "icon": "https://img.icons8.com/color/48/contract.png"
+  },
+  {
+    "name": "Vendor Management",
+    "icon": "https://img.icons8.com/color/48/conference.png"
+  },
+  {
+    "name": "Data Analysis",
+    "icon": "https://img.icons8.com/color/48/combo-chart.png"
+  },
+  {
+    "name": "MS Excel",
+    "icon": "https://img.icons8.com/color/48/ms-excel.png"
+  },
+  {
+    "name": "Supply Chain",
+    "icon": "https://img.icons8.com/color/48/warehouse.png"
+  },
+  {
+    "name": "Operations Management",
+    "icon": "https://img.icons8.com/color/48/flow-chart.png"
+  },
+  {
+    "name": "Category Management",
+    "icon": "https://img.icons8.com/color/48/product.png"
+  },
+  {
+    "name": "Canva Projects",
+    "icon": "https://img.icons8.com/color/48/canva.png"
+  }
 ]
